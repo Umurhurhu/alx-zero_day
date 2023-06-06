@@ -1,1 +1,1 @@
-My first readme
+Tega is a software engineer
